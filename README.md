@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently focused on practical applications of security engineering and incident response fundamentals.
+I’m currently focused on practical applications of security engineering, technical support, and general IT activities.
